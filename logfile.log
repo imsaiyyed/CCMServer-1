@@ -1,0 +1,603 @@
+{"level":"error","message":"Internal server error Cannot insert the value NULL into column 'UserID', table 'ExamSystemTest.dbo.OnlineTest_UserAnswers'; column does not allow nulls. INSERT fails.","timestamp":"2018-09-27T12:18:16.309Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-09-27T12:21:07.152Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-09-27T12:21:07.203Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-09-28T11:55:33.582Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-09-28T11:55:33.614Z"}
+{"level":"error","message":"Internal server error Cannot insert the value NULL into column 'UserID', table 'ExamSystemTest.dbo.OnlineTest_UserAnswers'; column does not allow nulls. INSERT fails.","timestamp":"2018-09-28T11:56:56.169Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-09-28T11:58:10.258Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-09-28T11:58:10.303Z"}
+{"level":"error","message":"Internal server error Cannot insert the value NULL into column 'UserID', table 'ExamSystemTest.dbo.OnlineTest_UserAnswers'; column does not allow nulls. INSERT fails.","timestamp":"2018-09-28T11:58:57.973Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-09-28T11:59:49.254Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-09-28T11:59:49.309Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-09-28T12:52:24.533Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-09-28T12:52:24.588Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-03T05:39:52.720Z"}
+{"message":"Database Connection Failed!","stack":"ConnectionError: Failed to connect to 192.168.101.20:1433 in 15000ms\n    at Connection.tedious.once.err (D:\\OnlineExaminationSystem\\OnlineExaminationSystemNode\\node_modules\\mssql\\lib\\tedious.js:216:17)\n    at Object.onceWrapper (events.js:315:30)\n    at emitOne (events.js:116:13)\n    at Connection.emit (events.js:211:7)\n    at Connection.connectTimeout (D:\\OnlineExaminationSystem\\OnlineExaminationSystemNode\\node_modules\\tedious\\lib\\connection.js:924:12)\n    at ontimeout (timers.js:498:11)\n    at tryOnTimeout (timers.js:323:5)\n    at Timer.listOnTimeout (timers.js:290:5)","code":"ETIMEOUT","originalError":{"message":"Failed to connect to 192.168.101.20:1433 in 15000ms","code":"ETIMEOUT"},"name":"ConnectionError","level":"error","timestamp":"2018-10-03T05:40:07.585Z"}
+{"level":"error","message":"Internal server error Cannot read property 'request' of undefined","timestamp":"2018-10-03T06:08:17.747Z"}
+{"level":"error","message":"Internal server error Cannot read property 'request' of undefined","timestamp":"2018-10-03T06:09:07.682Z"}
+{"level":"error","message":"Internal server error Cannot read property 'request' of undefined","timestamp":"2018-10-03T06:09:57.689Z"}
+{"level":"error","message":"Internal server error Cannot read property 'request' of undefined","timestamp":"2018-10-03T06:10:47.692Z"}
+{"level":"error","message":"Internal server error Cannot read property 'request' of undefined","timestamp":"2018-10-03T06:11:37.685Z"}
+{"level":"error","message":"Internal server error Cannot read property 'request' of undefined","timestamp":"2018-10-03T06:12:27.691Z"}
+{"level":"error","message":"Internal server error Cannot read property 'request' of undefined","timestamp":"2018-10-03T06:18:27.238Z"}
+{"level":"error","message":"Internal server error Cannot read property 'request' of undefined","timestamp":"2018-10-03T06:19:17.250Z"}
+{"level":"error","message":"Internal server error Cannot read property 'request' of undefined","timestamp":"2018-10-03T06:20:07.249Z"}
+{"level":"error","message":"Internal server error Cannot read property 'request' of undefined","timestamp":"2018-10-03T06:20:57.255Z"}
+{"level":"error","message":"Internal server error Cannot read property 'request' of undefined","timestamp":"2018-10-03T06:21:47.244Z"}
+{"level":"error","message":"Internal server error Cannot read property 'request' of undefined","timestamp":"2018-10-03T06:22:05.693Z"}
+{"level":"error","message":"Internal server error Cannot read property 'request' of undefined","timestamp":"2018-10-03T06:57:45.878Z"}
+{"level":"error","message":"Internal server error Cannot read property 'request' of undefined","timestamp":"2018-10-03T06:57:45.882Z"}
+{"level":"error","message":"Internal server error Cannot read property 'request' of undefined","timestamp":"2018-10-03T07:00:17.889Z"}
+{"level":"error","message":"Internal server error Cannot read property 'request' of undefined","timestamp":"2018-10-03T07:00:17.893Z"}
+{"level":"error","message":"Internal server error Cannot read property 'request' of undefined","timestamp":"2018-10-03T07:00:46.026Z"}
+{"level":"error","message":"Internal server error Cannot read property 'request' of undefined","timestamp":"2018-10-03T07:00:46.040Z"}
+{"level":"error","message":"Internal server error Cannot read property 'request' of undefined","timestamp":"2018-10-03T07:03:05.509Z"}
+{"level":"error","message":"Internal server error Cannot read property 'request' of undefined","timestamp":"2018-10-03T07:03:05.513Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-03T07:06:12.613Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-03T07:06:13.339Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-03T07:30:43.558Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-03T07:30:44.308Z"}
+{"level":"error","message":"Error occurred  child \"MiddleName\" fails because [\"MiddleName\" is not allowed to be empty]","timestamp":"2018-10-03T07:33:23.257Z"}
+{"level":"error","message":"Error occurred  child \"MiddleName\" fails because [\"MiddleName\" is not allowed to be empty]","timestamp":"2018-10-03T08:41:31.268Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-03T08:42:35.286Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-03T08:42:35.964Z"}
+{"level":"error","message":"Error occurred  \"Password\" is not allowed","timestamp":"2018-10-03T13:10:26.567Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-03T13:19:08.775Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-03T13:19:08.817Z"}
+{"level":"error","message":"Internal server error ResourceRequest timed out","timestamp":"2018-10-03T14:06:55.805Z"}
+{"level":"error","message":"Internal server error ResourceRequest timed out","timestamp":"2018-10-03T14:06:55.809Z"}
+{"level":"error","message":"Internal server error ResourceRequest timed out","timestamp":"2018-10-03T14:30:48.554Z"}
+{"level":"error","message":"Internal server error ResourceRequest timed out","timestamp":"2018-10-03T14:30:48.558Z"}
+{"level":"error","message":"Internal server error ResourceRequest timed out","timestamp":"2018-10-03T14:31:03.091Z"}
+{"level":"error","message":"Internal server error ResourceRequest timed out","timestamp":"2018-10-03T14:31:03.111Z"}
+{"level":"error","message":"Internal server error ResourceRequest timed out","timestamp":"2018-10-03T14:31:08.039Z"}
+{"level":"error","message":"Internal server error ResourceRequest timed out","timestamp":"2018-10-03T14:31:08.047Z"}
+{"level":"error","message":"Internal server error ResourceRequest timed out","timestamp":"2018-10-03T14:31:12.561Z"}
+{"level":"error","message":"Internal server error ResourceRequest timed out","timestamp":"2018-10-03T14:31:12.580Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-03T14:32:15.815Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-03T14:32:15.866Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-03T14:44:05.966Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-03T14:44:06.014Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-03T15:15:39.677Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-03T15:15:39.729Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-03T15:26:50.591Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-03T15:26:50.677Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-03T15:33:07.211Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-03T15:33:07.264Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-03T15:33:46.982Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-03T15:33:47.027Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-03T15:39:06.279Z"}
+{"message":"Database Connection Failed!","stack":"ConnectionError: Failed to connect to 192.168.101.20:1433 in 15000ms\n    at Connection.tedious.once.err (D:\\OnlineExaminationSystem\\OnlineExaminationSystemNode\\node_modules\\mssql\\lib\\tedious.js:216:17)\n    at Object.onceWrapper (events.js:315:30)\n    at emitOne (events.js:116:13)\n    at Connection.emit (events.js:211:7)\n    at Connection.connectTimeout (D:\\OnlineExaminationSystem\\OnlineExaminationSystemNode\\node_modules\\tedious\\lib\\connection.js:924:12)\n    at ontimeout (timers.js:498:11)\n    at tryOnTimeout (timers.js:323:5)\n    at Timer.listOnTimeout (timers.js:290:5)","code":"ETIMEOUT","originalError":{"message":"Failed to connect to 192.168.101.20:1433 in 15000ms","code":"ETIMEOUT"},"name":"ConnectionError","level":"error","timestamp":"2018-10-03T15:39:20.994Z"}
+{"level":"error","message":"Internal server error Cannot read property 'request' of undefined","timestamp":"2018-10-03T15:39:33.784Z"}
+{"level":"error","message":"Internal server error Cannot read property 'request' of undefined","timestamp":"2018-10-03T15:39:33.804Z"}
+{"level":"error","message":"Internal server error Cannot read property 'request' of undefined","timestamp":"2018-10-03T15:39:44.356Z"}
+{"level":"error","message":"Internal server error Cannot read property 'request' of undefined","timestamp":"2018-10-03T15:39:44.373Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-03T15:41:03.346Z"}
+{"message":"Database Connection Failed!","stack":"ConnectionError: Failed to connect to 192.168.101.20:1433 in 15000ms\n    at Connection.tedious.once.err (D:\\OnlineExaminationSystem\\OnlineExaminationSystemNode\\node_modules\\mssql\\lib\\tedious.js:216:17)\n    at Object.onceWrapper (events.js:315:30)\n    at emitOne (events.js:116:13)\n    at Connection.emit (events.js:211:7)\n    at Connection.connectTimeout (D:\\OnlineExaminationSystem\\OnlineExaminationSystemNode\\node_modules\\tedious\\lib\\connection.js:924:12)\n    at ontimeout (timers.js:498:11)\n    at tryOnTimeout (timers.js:323:5)\n    at Timer.listOnTimeout (timers.js:290:5)","code":"ETIMEOUT","originalError":{"message":"Failed to connect to 192.168.101.20:1433 in 15000ms","code":"ETIMEOUT"},"name":"ConnectionError","level":"error","timestamp":"2018-10-03T15:41:18.161Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-03T15:41:42.773Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-03T15:41:42.820Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-03T15:45:26.476Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-03T15:45:26.526Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-03T15:47:40.084Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-03T15:47:40.130Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-03T15:50:55.579Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-03T15:50:55.632Z"}
+{"level":"error","message":"Internal server error Can't set headers after they are sent.","timestamp":"2018-10-03T15:52:18.355Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-03T15:53:07.900Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-03T15:53:07.955Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-03T15:55:09.414Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-03T15:55:09.468Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-03T15:57:58.496Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-03T15:57:58.538Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-03T15:59:38.133Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-03T15:59:38.205Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-03T16:03:07.965Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-03T16:03:08.018Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-03T16:05:16.484Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-03T16:05:16.533Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-03T16:07:07.076Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-03T16:07:07.121Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-03T16:22:24.294Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-03T16:22:24.355Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-04T12:49:27.709Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-04T12:49:27.788Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-04T14:09:49.041Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-04T14:09:49.093Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-05T04:49:50.332Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-05T04:49:50.366Z"}
+{"level":"error","message":"Error occurred  child \"RefferedByContact\" fails because [\"RefferedByContact\" is not allowed to be empty]","timestamp":"2018-10-05T04:51:22.736Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-05T04:52:44.621Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-05T04:52:44.658Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-05T06:29:28.068Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-05T06:29:28.110Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-05T06:31:10.472Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-05T06:31:10.511Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-05T06:36:36.783Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-05T06:36:36.826Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-05T09:00:17.287Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-05T09:00:17.336Z"}
+{"level":"error","message":"Internal server error Could not find stored procedure 'dbo.OnlineTest_SaveUserTestanswerDatas'.","timestamp":"2018-10-05T09:18:48.763Z"}
+{"level":"error","message":"Internal server error Could not find stored procedure 'dbo.OnlineTest_SaveUserTestanswerDatas'.","timestamp":"2018-10-05T09:20:40.792Z"}
+{"level":"error","message":"Internal server error Could not find stored procedure 'dbo.OnlineTest_SaveUserTestanswerDatas'.","timestamp":"2018-10-05T09:20:45.775Z"}
+{"level":"error","message":"Internal server error Could not find stored procedure 'dbo.OnlineTest_SaveUserTestanswerDatas'.","timestamp":"2018-10-05T09:20:47.355Z"}
+{"level":"error","message":"Internal server error Could not find stored procedure 'dbo.OnlineTest_SaveUserTestanswerDatas'.","timestamp":"2018-10-05T09:20:48.071Z"}
+{"level":"error","message":"Internal server error Could not find stored procedure 'dbo.OnlineTest_SaveUserTestanswerDatas'.","timestamp":"2018-10-05T09:20:48.788Z"}
+{"level":"error","message":"Internal server error Could not find stored procedure 'dbo.OnlineTest_SaveUserTestanswerDatas'.","timestamp":"2018-10-05T09:24:27.169Z"}
+{"level":"error","message":"Internal server error Could not find stored procedure 'dbo.OnlineTest_SaveUserTestanswerDatas'.","timestamp":"2018-10-05T09:31:49.758Z"}
+{"level":"error","message":"Internal server error Could not find stored procedure 'dbo.OnlineTest_SaveUserTestanswerDatas'.","timestamp":"2018-10-05T09:32:25.753Z"}
+{"level":"error","message":"Internal server error Could not find stored procedure 'dbo.OnlineTest_SaveUserTestanswerDatas'.","timestamp":"2018-10-05T09:32:55.866Z"}
+{"level":"error","message":"Internal server error Could not find stored procedure 'dbo.OnlineTest_SaveUserTestanswerDatas'.","timestamp":"2018-10-05T09:34:06.491Z"}
+{"level":"error","message":"Internal server error Could not find stored procedure 'dbo.OnlineTest_SaveUserTestanswerDatas'.","timestamp":"2018-10-05T09:34:12.675Z"}
+{"level":"error","message":"Internal server error Could not find stored procedure 'dbo.OnlineTest_SaveUserTestanswerDatas'.","timestamp":"2018-10-05T09:34:47.099Z"}
+{"level":"error","message":"Internal server error Could not find stored procedure 'dbo.OnlineTest_SaveUserTestanswerDatas'.","timestamp":"2018-10-05T09:35:12.313Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-05T09:44:03.169Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-05T09:44:03.224Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-05T09:47:44.000Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-05T09:47:44.038Z"}
+{"level":"error","message":"Internal server error Cannot insert the value NULL into column 'UserID', table 'ExamSystemTest.dbo.OnlineTest_UserAnswers'; column does not allow nulls. INSERT fails.","timestamp":"2018-10-05T09:51:34.841Z"}
+{"level":"error","message":"Internal server error Cannot insert the value NULL into column 'UserID', table 'ExamSystemTest.dbo.OnlineTest_UserAnswers'; column does not allow nulls. INSERT fails.","timestamp":"2018-10-05T09:52:07.072Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-05T09:54:48.492Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-05T09:54:48.550Z"}
+{"level":"error","message":"Internal server error Cannot insert the value NULL into column 'UserID', table 'ExamSystemTest.dbo.OnlineTest_UserAnswers'; column does not allow nulls. INSERT fails.","timestamp":"2018-10-05T09:55:05.820Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-05T09:56:18.887Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-05T09:56:18.936Z"}
+{"level":"error","message":"Internal server error Cannot read property 'UserId' of undefined","timestamp":"2018-10-05T09:56:28.671Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-05T09:57:44.603Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-05T09:57:44.656Z"}
+{"level":"error","message":"Internal server error Cannot read property 'UserId' of undefined","timestamp":"2018-10-05T09:57:50.566Z"}
+{"level":"error","message":"Error occurred  child \"RefferedByContact\" fails because [\"RefferedByContact\" is not allowed to be empty]","timestamp":"2018-10-05T10:12:53.431Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-05T10:16:20.325Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-05T10:16:20.374Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-05T11:59:03.817Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-05T11:59:03.854Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-05T12:01:24.111Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-05T12:01:24.178Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-05T12:02:59.173Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-05T12:02:59.227Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-05T12:21:54.912Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-05T12:21:54.949Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-05T12:26:25.017Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-05T12:26:25.061Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-05T12:50:03.437Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-05T12:50:03.506Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-05T13:38:59.968Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-05T13:39:00.017Z"}
+{"level":"error","message":"Internal server error (intermediate value).recordset[0] is not a function","timestamp":"2018-10-05T13:39:34.238Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-05T13:40:35.111Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-05T13:40:35.156Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-08T04:27:46.544Z"}
+{"message":"Database Connection Failed!","stack":"ConnectionError: Failed to connect to 192.168.101.20:1433 - connect EHOSTUNREACH 192.168.101.20:1433\n    at Connection.tedious.once.err (D:\\OnlineExaminationSystem\\OnlineExaminationSystemNode\\node_modules\\mssql\\lib\\tedious.js:216:17)\n    at Object.onceWrapper (events.js:315:30)\n    at emitOne (events.js:116:13)\n    at Connection.emit (events.js:211:7)\n    at Connection.socketError (D:\\OnlineExaminationSystem\\OnlineExaminationSystemNode\\node_modules\\tedious\\lib\\connection.js:1004:14)\n    at D:\\OnlineExaminationSystem\\OnlineExaminationSystemNode\\node_modules\\tedious\\lib\\connection.js:869:25\n    at Socket.onError (D:\\OnlineExaminationSystem\\OnlineExaminationSystemNode\\node_modules\\tedious\\lib\\connector.js:49:9)\n    at emitOne (events.js:116:13)\n    at Socket.emit (events.js:211:7)\n    at emitErrorNT (internal/streams/destroy.js:64:8)","code":"ESOCKET","originalError":{"message":"Failed to connect to 192.168.101.20:1433 - connect EHOSTUNREACH 192.168.101.20:1433","code":"ESOCKET"},"name":"ConnectionError","level":"error","timestamp":"2018-10-08T04:27:46.559Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-08T04:28:29.759Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-08T04:28:30.460Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-08T06:11:59.005Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-08T06:11:59.045Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-08T06:16:55.060Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-08T06:16:55.099Z"}
+{"level":"error","message":"Internal server error Procedure or function Insert_UserResultAccuracyConfidence has too many arguments specified.","timestamp":"2018-10-08T06:17:46.490Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-08T06:19:11.747Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-08T06:19:11.797Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-08T06:21:54.567Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-08T06:21:54.612Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-08T06:39:11.483Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-08T06:39:11.558Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-08T08:13:56.078Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-08T08:13:56.123Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-08T08:17:24.516Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-08T08:17:24.556Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-09T04:12:03.584Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T04:12:04.308Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-09T06:23:25.716Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T06:23:26.349Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-09T07:07:56.112Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T07:07:56.162Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-09T07:16:02.807Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T07:16:02.859Z"}
+{"level":"error","message":"Internal server error Could not find stored procedure 'dbo.RequestRetest'.","timestamp":"2018-10-09T07:16:41.572Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-09T07:17:20.942Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T07:17:20.990Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-09T07:59:09.096Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T07:59:09.161Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-09T08:00:06.620Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T08:00:06.666Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-09T08:39:58.625Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T08:39:58.663Z"}
+{"level":"error","message":"Internal server error Procedure or function 'Request_Retest' expects parameter '@RetestRequestStatus', which was not supplied.","timestamp":"2018-10-09T08:40:21.139Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-09T08:43:10.166Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T08:43:10.207Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-09T09:34:44.518Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T09:34:44.557Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-09T09:35:31.264Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T09:35:31.316Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-09T09:49:05.303Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T09:49:05.349Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-09T09:51:27.405Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T09:51:27.456Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-09T09:52:08.152Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T09:52:08.196Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-09T09:53:26.612Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T09:53:26.658Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-09T09:54:24.385Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T09:54:24.428Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-09T09:56:49.888Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T09:56:49.927Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-09T10:02:10.740Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T10:02:10.788Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-09T10:03:10.274Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T10:03:10.312Z"}
+{"level":"error","message":"Error occurred  child \"RefferedByContact\" fails because [\"RefferedByContact\" is not allowed to be empty]","timestamp":"2018-10-09T10:13:40.274Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-09T10:14:26.464Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T10:14:26.513Z"}
+{"level":"error","message":"Error occurred  child \"RefferedBy\" fails because [\"RefferedBy\" is not allowed to be empty]","timestamp":"2018-10-09T10:17:48.906Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-09T10:19:37.323Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T10:19:37.369Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-09T10:36:20.464Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T10:36:20.503Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-09T10:56:53.673Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T10:56:53.716Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-09T10:59:01.835Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T10:59:01.873Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-09T11:02:07.102Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T11:02:07.151Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-09T11:06:05.472Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T11:06:05.515Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-09T11:08:28.003Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T11:08:28.046Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-09T11:36:08.530Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T11:36:08.572Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-09T11:48:44.513Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T11:48:44.557Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-09T12:02:39.116Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T12:02:39.138Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-09T12:03:28.548Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T12:03:28.588Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-09T13:12:45.169Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T13:12:45.209Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-09T13:14:17.204Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T13:14:17.250Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-09T13:15:33.070Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T13:15:33.109Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-09T13:45:35.366Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T13:45:35.416Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-09T14:41:56.713Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T14:41:56.757Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T05:03:34.645Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T05:03:35.311Z"}
+{"level":"error","message":"Error occurred  child \"RefferedByContact\" fails because [\"RefferedByContact\" is not allowed to be empty]","timestamp":"2018-10-10T05:10:45.990Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T06:33:13.427Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T06:33:13.480Z"}
+{"level":"error","message":"Error occurred  child \"MiddleName\" fails because [\"MiddleName\" is not allowed to be empty]","timestamp":"2018-10-10T06:33:47.968Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T06:35:04.811Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T06:35:04.895Z"}
+{"level":"error","message":"Error occurred  child \"MiddleName\" fails because [\"MiddleName\" is not allowed to be empty]","timestamp":"2018-10-10T06:35:50.381Z"}
+{"level":"error","message":"Error occurred  child \"MiddleName\" fails because [\"MiddleName\" is not allowed to be empty]","timestamp":"2018-10-10T06:42:27.702Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T06:42:38.626Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T06:42:38.670Z"}
+{"level":"error","message":"Error occurred  child \"AddressLine2\" fails because [\"AddressLine2\" is not allowed to be empty]","timestamp":"2018-10-10T06:43:22.265Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T06:43:54.286Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T06:43:54.329Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T07:18:28.540Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T07:18:28.606Z"}
+{"level":"error","message":"Internal server error Could not find stored procedure 'dbo.CheckAdminCredentials'.","timestamp":"2018-10-10T07:19:50.215Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T07:20:20.656Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T07:20:20.707Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T08:34:07.284Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T08:34:07.326Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T08:44:33.773Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T08:44:33.811Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T09:13:32.824Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T09:13:32.867Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T09:18:00.396Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T09:18:00.445Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T09:26:58.542Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T09:26:58.580Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T09:42:27.141Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T09:42:27.189Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T10:54:10.616Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T10:54:10.657Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T12:08:42.227Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T12:08:42.270Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T12:09:51.543Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T12:09:51.585Z"}
+{"level":"error","message":"Internal server error Validation failed for parameter 'startDate'. Value must be between -2147483648 and 2147483647.","timestamp":"2018-10-10T12:09:55.012Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T12:11:58.866Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T12:11:58.908Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T12:13:01.914Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T12:13:01.957Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T12:20:23.676Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T12:20:23.735Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T12:55:01.987Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T12:55:02.031Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T13:01:52.244Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T13:01:52.285Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T13:03:01.956Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T13:03:01.998Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T13:03:41.679Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T13:03:41.731Z"}
+{"level":"error","message":"Internal server error Error converting data type nvarchar to datetime.","timestamp":"2018-10-10T13:03:50.110Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T13:05:07.123Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T13:05:07.167Z"}
+{"level":"error","message":"Internal server error Error converting data type nvarchar to datetime.","timestamp":"2018-10-10T13:05:10.223Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T13:05:41.142Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T13:05:41.192Z"}
+{"level":"error","message":"Internal server error Error converting data type nvarchar to datetime.","timestamp":"2018-10-10T13:05:44.563Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T13:07:11.937Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T13:07:11.974Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T13:11:42.527Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T13:11:42.570Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T13:15:29.936Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T13:15:29.978Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T13:23:10.491Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T13:23:10.552Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T13:52:14.923Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T13:52:14.963Z"}
+{"level":"error","message":"Internal server error Cannot read property 'ReTestRequested' of undefined","timestamp":"2018-10-10T13:54:27.334Z"}
+{"level":"error","message":"Internal server error Cannot read property 'ReTestRequested' of undefined","timestamp":"2018-10-10T13:55:32.209Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T13:57:19.064Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T13:57:19.093Z"}
+{"level":"error","message":"Internal server error Cannot read property 'ReTestRequested' of undefined","timestamp":"2018-10-10T13:57:44.602Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T14:02:39.997Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T14:02:40.042Z"}
+{"level":"error","message":"Internal server error Cannot read property 'ReTestRequested' of undefined","timestamp":"2018-10-10T14:04:14.776Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T14:08:41.441Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T14:08:41.483Z"}
+{"level":"error","message":"Internal server error Cannot read property 'ReTestRequested' of undefined","timestamp":"2018-10-10T14:09:03.420Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T14:09:34.029Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T14:09:34.070Z"}
+{"level":"error","message":"Internal server error Cannot read property 'ReTestRequested' of undefined","timestamp":"2018-10-10T14:09:59.968Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T14:10:44.443Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T14:10:44.484Z"}
+{"level":"error","message":"Internal server error Cannot read property 'ReTestRequested' of undefined","timestamp":"2018-10-10T14:11:03.281Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T14:12:33.836Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T14:12:33.915Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T14:33:42.781Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T14:33:42.824Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T14:37:56.710Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T14:37:56.758Z"}
+{"level":"error","message":"Internal server error Cannot read property 'SubmitTest' of undefined","timestamp":"2018-10-10T14:38:24.791Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T14:45:03.834Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T14:45:03.876Z"}
+{"level":"error","message":"Internal server error Cannot read property 'SubmitTest' of undefined","timestamp":"2018-10-10T14:45:37.818Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T14:45:56.972Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T14:45:57.025Z"}
+{"level":"error","message":"Internal server error Cannot read property 'userId' of undefined","timestamp":"2018-10-10T14:46:12.615Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T14:48:57.387Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T14:48:57.427Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T15:00:03.739Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T15:00:03.795Z"}
+{"level":"error","message":"Internal server error Cannot insert the value NULL into column 'UserId', table 'ExamSystemTest.dbo.UserResultAccuracyConfidence'; column does not allow nulls. INSERT fails.","timestamp":"2018-10-10T15:00:15.319Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T15:01:26.530Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T15:01:26.587Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-11T05:29:36.696Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-11T05:29:37.333Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-11T07:15:51.528Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-11T07:15:51.580Z"}
+{"level":"error","message":"Internal server error Invalid length parameter passed to the RIGHT function.","timestamp":"2018-10-11T08:38:46.756Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-11T09:50:37.127Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-11T09:50:37.169Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-11T10:03:16.148Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-11T10:03:16.189Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-11T10:21:17.427Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-11T10:21:17.468Z"}
+{"level":"error","message":"Internal server error ENOENT: no such file or directory, stat 'D:\\OnlineExaminationSystem\\OnlineExaminationSystemNode\\routes\\public\\index.html'","timestamp":"2018-10-11T10:21:29.408Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-11T10:24:37.976Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-11T10:24:38.016Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-11T10:26:17.373Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-11T10:26:17.419Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-11T10:33:14.965Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-11T10:33:15.005Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-11T11:30:33.740Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-11T11:30:33.788Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-11T11:31:20.064Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-11T11:31:20.108Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-11T11:31:39.454Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-11T11:31:39.495Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-11T11:32:19.278Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-11T11:32:19.331Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-11T11:36:24.982Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-11T11:36:25.024Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-11T11:40:24.514Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-11T11:40:24.554Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-11T11:41:00.899Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-11T11:41:00.944Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-11T11:42:02.049Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-11T11:42:02.106Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-11T11:43:01.991Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-11T11:43:02.034Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-11T11:43:26.397Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-11T11:43:26.436Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-11T11:48:59.185Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-11T11:48:59.226Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-11T11:57:59.050Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-11T11:57:59.104Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-11T11:58:38.339Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-11T11:58:38.384Z"}
+{"level":"error","message":"Internal server error ResourceRequest timed out","timestamp":"2018-10-11T12:03:12.621Z"}
+{"level":"error","message":"Internal server error ResourceRequest timed out","timestamp":"2018-10-11T12:03:12.628Z"}
+{"level":"error","message":"Internal server error ResourceRequest timed out","timestamp":"2018-10-11T12:03:24.155Z"}
+{"level":"error","message":"Internal server error ResourceRequest timed out","timestamp":"2018-10-11T12:03:24.158Z"}
+{"level":"error","message":"Internal server error ResourceRequest timed out","timestamp":"2018-10-11T12:04:20.260Z"}
+{"level":"error","message":"Internal server error ResourceRequest timed out","timestamp":"2018-10-11T12:04:20.262Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-11T12:04:46.066Z"}
+{"message":"Database Connection Failed!","stack":"ConnectionError: Failed to connect to 192.168.101.20:1433 - connect EHOSTUNREACH 192.168.101.20:1433\n    at Connection.tedious.once.err (D:\\OnlineExaminationSystem\\OnlineExaminationSystemNode\\node_modules\\mssql\\lib\\tedious.js:216:17)\n    at Object.onceWrapper (events.js:315:30)\n    at emitOne (events.js:116:13)\n    at Connection.emit (events.js:211:7)\n    at Connection.socketError (D:\\OnlineExaminationSystem\\OnlineExaminationSystemNode\\node_modules\\tedious\\lib\\connection.js:1004:14)\n    at D:\\OnlineExaminationSystem\\OnlineExaminationSystemNode\\node_modules\\tedious\\lib\\connection.js:869:25\n    at Socket.onError (D:\\OnlineExaminationSystem\\OnlineExaminationSystemNode\\node_modules\\tedious\\lib\\connector.js:49:9)\n    at emitOne (events.js:116:13)\n    at Socket.emit (events.js:211:7)\n    at emitErrorNT (internal/streams/destroy.js:64:8)","code":"ESOCKET","originalError":{"message":"Failed to connect to 192.168.101.20:1433 - connect EHOSTUNREACH 192.168.101.20:1433","code":"ESOCKET"},"name":"ConnectionError","level":"error","timestamp":"2018-10-11T12:04:46.082Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-11T12:05:13.455Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-11T12:05:14.086Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-11T12:05:36.691Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-11T12:05:37.346Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-11T12:14:06.629Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-11T12:14:07.263Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-11T12:14:43.812Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-11T12:14:44.468Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-11T12:15:41.082Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-11T12:15:41.722Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-11T12:18:08.011Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-11T12:18:08.649Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-11T12:20:01.814Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-11T12:20:02.460Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-11T12:20:29.960Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-11T12:20:30.606Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-11T12:21:16.777Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-11T12:21:17.415Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-11T12:24:32.041Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-11T12:24:32.685Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-11T12:25:27.063Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-11T12:25:27.696Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-11T12:26:14.725Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-11T12:26:15.377Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-11T13:14:32.306Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-11T13:14:32.981Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-12T08:23:27.332Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-12T08:23:27.376Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-12T08:40:55.803Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-12T08:40:55.847Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-12T08:52:55.142Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-12T08:52:55.202Z"}
+{"level":"error","message":"Internal server error Invalid length parameter passed to the RIGHT function.","timestamp":"2018-10-12T09:02:23.104Z"}
+{"level":"error","message":"Internal server error Invalid length parameter passed to the RIGHT function.","timestamp":"2018-10-12T09:03:55.384Z"}
+{"level":"error","message":"Internal server error Invalid length parameter passed to the RIGHT function.","timestamp":"2018-10-12T09:07:20.092Z"}
+{"level":"error","message":"Internal server error Invalid length parameter passed to the RIGHT function.","timestamp":"2018-10-12T09:09:10.503Z"}
+{"level":"error","message":"Internal server error Invalid length parameter passed to the RIGHT function.","timestamp":"2018-10-12T10:01:56.453Z"}
+{"level":"error","message":"Internal server error Invalid length parameter passed to the RIGHT function.","timestamp":"2018-10-12T10:02:12.162Z"}
+{"level":"error","message":"Internal server error Invalid length parameter passed to the RIGHT function.","timestamp":"2018-10-12T10:02:47.048Z"}
+{"level":"error","message":"Internal server error Invalid length parameter passed to the RIGHT function.","timestamp":"2018-10-12T10:03:13.856Z"}
+{"level":"error","message":"Internal server error Invalid length parameter passed to the RIGHT function.","timestamp":"2018-10-12T10:03:53.426Z"}
+{"level":"error","message":"Internal server error Invalid length parameter passed to the RIGHT function.","timestamp":"2018-10-12T10:04:10.602Z"}
+{"level":"error","message":"Internal server error Invalid length parameter passed to the RIGHT function.","timestamp":"2018-10-12T10:05:37.525Z"}
+{"level":"error","message":"Internal server error Invalid length parameter passed to the RIGHT function.","timestamp":"2018-10-12T10:06:51.020Z"}
+{"level":"error","message":"Internal server error Invalid length parameter passed to the RIGHT function.","timestamp":"2018-10-12T10:07:34.439Z"}
+{"level":"error","message":"Internal server error Invalid length parameter passed to the RIGHT function.","timestamp":"2018-10-12T10:08:25.504Z"}
+{"level":"error","message":"Internal server error Invalid length parameter passed to the RIGHT function.","timestamp":"2018-10-12T10:09:20.972Z"}
+{"level":"error","message":"Internal server error Invalid length parameter passed to the RIGHT function.","timestamp":"2018-10-12T10:11:18.840Z"}
+{"level":"error","message":"Internal server error Invalid length parameter passed to the RIGHT function.","timestamp":"2018-10-12T10:25:40.839Z"}
+{"level":"error","message":"Internal server error Invalid length parameter passed to the RIGHT function.","timestamp":"2018-10-12T13:43:53.358Z"}
+{"level":"error","message":"Internal server error Invalid length parameter passed to the RIGHT function.","timestamp":"2018-10-12T13:45:17.978Z"}
+{"level":"error","message":"Internal server error Invalid length parameter passed to the RIGHT function.","timestamp":"2018-10-12T13:50:27.193Z"}
+{"level":"error","message":"Internal server error Invalid length parameter passed to the RIGHT function.","timestamp":"2018-10-12T13:51:09.275Z"}
+{"level":"error","message":"Internal server error Invalid length parameter passed to the RIGHT function.","timestamp":"2018-10-12T13:51:16.181Z"}
+{"level":"error","message":"Internal server error Invalid length parameter passed to the RIGHT function.","timestamp":"2018-10-12T13:52:02.388Z"}
+{"level":"error","message":"Error occurred  child \"MiddleName\" fails because [\"MiddleName\" must be a string]","timestamp":"2018-10-12T13:52:13.225Z"}
+{"level":"error","message":"Internal server error Invalid length parameter passed to the RIGHT function.","timestamp":"2018-10-12T13:52:34.559Z"}
+{"level":"error","message":"Internal server error Invalid length parameter passed to the RIGHT function.","timestamp":"2018-10-12T13:53:17.035Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-12T13:54:16.767Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-12T13:54:16.805Z"}
+{"level":"error","message":"Internal server error Invalid length parameter passed to the RIGHT function.","timestamp":"2018-10-12T13:54:31.116Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-12T13:54:52.928Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-12T13:54:52.988Z"}
+{"level":"error","message":"Internal server error Invalid length parameter passed to the RIGHT function.","timestamp":"2018-10-12T13:55:09.959Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-12T13:56:06.810Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-12T13:56:06.852Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-12T13:56:26.169Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-12T13:56:26.208Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-12T14:04:29.429Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-12T14:04:29.481Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-12T14:09:11.247Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-12T14:09:11.288Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-15T05:50:28.574Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-15T05:50:29.266Z"}
+{"level":"error","message":"Internal server error ResourceRequest timed out","timestamp":"2018-10-15T11:55:15.645Z"}
+{"level":"error","message":"Internal server error ResourceRequest timed out","timestamp":"2018-10-15T11:55:15.648Z"}
+{"level":"error","message":"Internal server error ResourceRequest timed out","timestamp":"2018-10-15T11:56:19.558Z"}
+{"level":"error","message":"Internal server error ResourceRequest timed out","timestamp":"2018-10-15T11:56:19.566Z"}
+{"level":"error","message":"Internal server error ResourceRequest timed out","timestamp":"2018-10-15T11:57:06.465Z"}
+{"level":"error","message":"Internal server error ResourceRequest timed out","timestamp":"2018-10-15T11:57:06.469Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-15T11:58:13.499Z"}
+{"message":"Database Connection Failed!","stack":"ConnectionError: Login failed for user 'sa' because the account is currently locked out. The system administrator can unlock it. \n    at Connection.tedious.once.err (D:\\OnlineExaminationSystem\\OnlineExaminationSystemNode\\node_modules\\mssql\\lib\\tedious.js:216:17)\n    at Object.onceWrapper (events.js:315:30)\n    at emitOne (events.js:116:13)\n    at Connection.emit (events.js:211:7)\n    at Connection.processLogin7Response (D:\\OnlineExaminationSystem\\OnlineExaminationSystemNode\\node_modules\\tedious\\lib\\connection.js:1277:16)\n    at Connection.message (D:\\OnlineExaminationSystem\\OnlineExaminationSystemNode\\node_modules\\tedious\\lib\\connection.js:1789:14)\n    at Connection.dispatchEvent (D:\\OnlineExaminationSystem\\OnlineExaminationSystemNode\\node_modules\\tedious\\lib\\connection.js:992:38)\n    at MessageIO.<anonymous> (D:\\OnlineExaminationSystem\\OnlineExaminationSystemNode\\node_modules\\tedious\\lib\\connection.js:886:18)\n    at emitNone (events.js:106:13)\n    at MessageIO.emit (events.js:208:7)","code":"ELOGIN","originalError":{"message":"Login failed for user 'sa' because the account is currently locked out. The system administrator can unlock it. ","code":"ELOGIN"},"name":"ConnectionError","level":"error","timestamp":"2018-10-15T11:58:13.522Z"}
+{"level":"error","message":"Internal server error Cannot read property 'request' of undefined","timestamp":"2018-10-15T11:58:39.408Z"}
+{"level":"error","message":"Internal server error Cannot read property 'request' of undefined","timestamp":"2018-10-15T12:27:27.252Z"}
+{"level":"error","message":"Internal server error Cannot read property 'request' of undefined","timestamp":"2018-10-15T12:27:27.256Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-15T12:27:49.767Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-15T12:27:50.867Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2019-02-04T12:01:40.037Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2019-02-04T12:01:40.396Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2019-02-04T13:11:21.046Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2019-02-04T13:11:21.388Z"}
+{"level":"info","message":"User Details : {\"UserName\":\"1234\",\"FirstName\":\"Hemkant\",\"MiddleName\":\"b\",\"LastName\":\"Gangurde\",\"Gender\":\"Male\",\"MaritalStatus\":\"Single\",\"DOB\":\"05/30/1991\",\"ContactNumber\":\"8055001062\",\"Email\":\"gangurdehemkant121@gmail.com\",\"AddressLine1\":\"Bhalchandra Park\",\"AddressLine2\":\"R.H. No. 1\",\"PinCode\":422009,\"City\":\"Nashik\",\"State\":\"Maharashtra\",\"CollegeName\":\"KKW\",\"StreamName\":\"Computer IT\",\"RefferedBy\":\"\",\"RefferedByContact\":\"8055001060\"}.","timestamp":"2019-02-04T13:11:32.663Z"}
+{"level":"error","message":"Internal server error Invalid column name 'ComputerConfidence'.","timestamp":"2019-02-04T13:11:33.575Z"}
+{"level":"info","message":"User Details : {\"UserName\":\"1234\",\"FirstName\":\"Hemkant\",\"MiddleName\":\"b\",\"LastName\":\"Gangurde\",\"Gender\":\"Male\",\"MaritalStatus\":\"Single\",\"DOB\":\"05/30/1991\",\"ContactNumber\":\"8055001062\",\"Email\":\"gangurdehemkant121@gmail.com\",\"AddressLine1\":\"Bhalchandra Park\",\"AddressLine2\":\"R.H. No. 1\",\"PinCode\":422009,\"City\":\"Nashik\",\"State\":\"Maharashtra\",\"CollegeName\":\"KKW\",\"StreamName\":\"Computer IT\",\"RefferedBy\":\"\",\"RefferedByContact\":\"8055001060\"}.","timestamp":"2019-02-04T13:11:55.484Z"}
+{"level":"error","message":"Internal server error Invalid column name 'ComputerConfidence'.","timestamp":"2019-02-04T13:11:55.930Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2019-02-04T13:15:56.558Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2019-02-04T13:15:56.595Z"}
+{"level":"info","message":"User Details : {\"UserName\":\"1234\",\"FirstName\":\"Hemkant\",\"MiddleName\":\"b\",\"LastName\":\"Gangurde\",\"Gender\":\"Male\",\"MaritalStatus\":\"Single\",\"DOB\":\"05/30/1991\",\"ContactNumber\":\"8055001062\",\"Email\":\"gangurdehemkant121@gmail.com\",\"AddressLine1\":\"Bhalchandra Park\",\"AddressLine2\":\"R.H. No. 1\",\"PinCode\":422009,\"City\":\"Nashik\",\"State\":\"Maharashtra\",\"CollegeName\":\"KKW\",\"StreamName\":\"Computer IT\",\"RefferedBy\":\"\",\"RefferedByContact\":\"8055001060\"}.","timestamp":"2019-02-04T13:16:07.919Z"}
+{"level":"error","message":"Internal server error @Accuracy is not a parameter for procedure Insert_UserResultAccuracyConfidence.","timestamp":"2019-02-04T13:16:08.093Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2019-02-04T13:25:55.745Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2019-02-04T13:25:56.108Z"}
+{"level":"info","message":"User Details : {\"UserName\":\"1234\",\"FirstName\":\"Hemkant\",\"MiddleName\":\"b\",\"LastName\":\"Gangurde\",\"Gender\":\"Male\",\"MaritalStatus\":\"Single\",\"DOB\":\"05/30/1991\",\"ContactNumber\":\"8055001062\",\"Email\":\"gangurdehemkant121@gmail.com\",\"AddressLine1\":\"Bhalchandra Park\",\"AddressLine2\":\"R.H. No. 1\",\"PinCode\":422009,\"City\":\"Nashik\",\"State\":\"Maharashtra\",\"CollegeName\":\"KKW\",\"StreamName\":\"Computer IT\",\"RefferedBy\":\"\",\"RefferedByContact\":\"8055001060\"}.","timestamp":"2019-02-04T13:27:31.398Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2019-02-04T14:01:03.982Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2019-02-04T14:01:04.022Z"}
+{"level":"info","message":"User Details : {\"UserName\":\"1234\",\"FirstName\":\"Hemkant\",\"MiddleName\":\"b\",\"LastName\":\"Gangurde\",\"Gender\":\"Male\",\"MaritalStatus\":\"Single\",\"DOB\":\"05/30/1991\",\"ContactNumber\":\"8055001062\",\"Email\":\"gangurdehemkant121@gmail.com\",\"AddressLine1\":\"Bhalchandra Park\",\"AddressLine2\":\"R.H. No. 1\",\"PinCode\":422009,\"City\":\"Nashik\",\"State\":\"Maharashtra\",\"CollegeName\":\"KKW\",\"StreamName\":\"Computer IT\",\"RefferedBy\":\"\",\"RefferedByContact\":\"8055001060\"}.","timestamp":"2019-02-04T14:01:12.145Z"}
+{"level":"info","message":"User Details : {\"UserName\":\"1234\",\"FirstName\":\"Hemkant\",\"MiddleName\":\"b\",\"LastName\":\"Gangurde\",\"Gender\":\"Male\",\"MaritalStatus\":\"Single\",\"DOB\":\"05/30/1991\",\"ContactNumber\":\"8055001062\",\"Email\":\"gangurdehemkant121@gmail.com\",\"AddressLine1\":\"Bhalchandra Park\",\"AddressLine2\":\"R.H. No. 1\",\"PinCode\":422009,\"City\":\"Nashik\",\"State\":\"Maharashtra\",\"CollegeName\":\"KKW\",\"StreamName\":\"Computer IT\",\"RefferedBy\":\"\",\"RefferedByContact\":\"8055001060\"}.","timestamp":"2019-02-04T14:01:17.319Z"}
+{"level":"info","message":"User Details : {\"UserName\":\"ESPL50051\",\"FirstName\":\"Hemkant\",\"MiddleName\":\"b\",\"LastName\":\"Gangurde\",\"Gender\":\"Male\",\"MaritalStatus\":\"Single\",\"DOB\":\"05/30/1991\",\"ContactNumber\":\"8055001062\",\"Email\":\"gangurdehemkant121@gmail.com\",\"AddressLine1\":\"Bhalchandra Park\",\"AddressLine2\":\"R.H. No. 1\",\"PinCode\":422009,\"City\":\"Nashik\",\"State\":\"Maharashtra\",\"CollegeName\":\"KKW\",\"StreamName\":\"Computer IT\",\"RefferedBy\":\"\",\"RefferedByContact\":\"8055001060\"}.","timestamp":"2019-02-11T04:47:48.893Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2019-02-11T05:53:23.327Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2019-02-11T05:53:23.381Z"}
+{"level":"info","message":"User Details : {\"UserName\":\"ESPL50052\",\"FirstName\":\"Hemkant\",\"LastName\":\"Gangurde\",\"Gender\":\"Male\",\"MaritalStatus\":\"Single\",\"DOB\":\"05/30/1991\",\"ContactNumber\":\"8055001062\",\"Email\":\"gangurdehemkant121@gmail.com\",\"State\":\"Maharashtra\"}.","timestamp":"2019-02-11T06:14:48.637Z"}
+{"level":"error","message":"Error occurred  child \"AddressLine1\" fails because [\"AddressLine1\" is required]","timestamp":"2019-02-11T06:14:48.666Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2019-02-11T06:16:39.578Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2019-02-11T06:16:39.615Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2019-02-11T06:17:03.358Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2019-02-11T06:17:03.699Z"}
+{"level":"info","message":"User Details : {\"UserName\":\"ESPL50052\",\"FirstName\":\"Hemkant\",\"LastName\":\"Gangurde\",\"Gender\":\"Male\",\"MaritalStatus\":\"Single\",\"DOB\":\"05/30/1991\",\"ContactNumber\":\"8055001062\",\"Email\":\"gangurdehemkant121@gmail.com\",\"State\":\"Maharashtra\"}.","timestamp":"2019-02-11T06:17:40.937Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2019-02-11T11:56:17.348Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2019-02-11T11:56:20.404Z"}
+{"level":"info","message":"User Details : {\"UserName\":\"ESPL50054\",\"FirstName\":\"Hemkant\",\"MiddleName\":\"b\",\"LastName\":\"G\",\"Gender\":\"0\",\"MaritalStatus\":\"0\",\"DOB\":\"02/11/2001\",\"ContactNumber\":\"8055001060\",\"Email\":\"gangurdehemkant@gmail.com\",\"AddressLine1\":\"abc\",\"AddressLine2\":\"abc\",\"PinCode\":\"123456\",\"City\":\"nashik\",\"State\":\"Dadra and Nagar Haveli\",\"CollegeName\":\"R. C. Patel Institute of Technology\",\"StreamName\":\"Computer Engineering and IT\",\"RefferedBy\":\"asdasdasd\",\"RefferedByContact\":\"9234567890\"}.","timestamp":"2019-02-11T12:00:44.324Z"}
+{"level":"info","message":"User Details : {\"UserName\":\"ESPL50054\",\"FirstName\":\"Hemkant\",\"MiddleName\":\"b\",\"LastName\":\"G\",\"Gender\":\"0\",\"MaritalStatus\":\"0\",\"DOB\":\"02/11/2001\",\"ContactNumber\":\"8055871060\",\"Email\":\"gangurdehemkant65@gmail.com\",\"AddressLine1\":\"abc\",\"AddressLine2\":\"abc\",\"PinCode\":\"123456\",\"City\":\"nashik\",\"State\":\"Dadra and Nagar Haveli\",\"CollegeName\":\"R. C. Patel Institute of Technology\",\"StreamName\":\"Computer Engineering and IT\",\"RefferedBy\":\"\",\"RefferedByContact\":\"\"}.","timestamp":"2019-02-11T12:01:49.823Z"}
+{"level":"info","message":"User Details : {\"UserName\":\"ESPL50054\",\"FirstName\":\"Hemkantg\",\"MiddleName\":\"Hemkantg\",\"LastName\":\"Hemkantg\",\"Gender\":\"0\",\"MaritalStatus\":\"0\",\"DOB\":\"02/11/2001\",\"ContactNumber\":\"9855101060\",\"Email\":\"gangurdehemkant3333@gmail.com\",\"AddressLine1\":\"abc\",\"AddressLine2\":\"abc\",\"PinCode\":\"123456\",\"City\":\"nashik\",\"State\":\"Dadra and Nagar Haveli\",\"CollegeName\":\"Karmaveer Avt. Baburao Ganpatrao Thakare College of Engineering\",\"StreamName\":\"Computer Engineering and IT\",\"RefferedBy\":\"asdasdasd\",\"RefferedByContact\":\"9234567890\"}.","timestamp":"2019-02-11T12:03:53.457Z"}
+{"level":"info","message":"User Details : {\"UserName\":\"ESPL50054\",\"FirstName\":\"Hemkantg\",\"MiddleName\":\"Hemkantg\",\"LastName\":\"Hemkantg\",\"Gender\":\"0\",\"MaritalStatus\":\"0\",\"DOB\":\"02/11/2001\",\"ContactNumber\":\"9855101060\",\"Email\":\"gangurdehemkant3333@gmail.com\",\"AddressLine1\":\"abc\",\"AddressLine2\":\"abc\",\"PinCode\":\"123456\",\"City\":\"nashik\",\"State\":\"Dadra and Nagar Haveli\",\"CollegeName\":\"Karmaveer Avt. Baburao Ganpatrao Thakare College of Engineering\",\"StreamName\":\"Computer Engineering and IT\",\"RefferedBy\":\"asdasdasd\",\"RefferedByContact\":\"9234567890\"}.","timestamp":"2019-02-11T12:04:37.750Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2019-02-11T12:08:44.207Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2019-02-11T12:08:44.253Z"}
+{"level":"info","message":"User Details : {\"UserName\":\"ESPL50054\",\"FirstName\":\"Hemkantg\",\"MiddleName\":\"Hemkantg\",\"LastName\":\"Hemkantg\",\"Gender\":\"0\",\"MaritalStatus\":\"0\",\"DOB\":\"02/11/2001\",\"ContactNumber\":\"8155001060\",\"Email\":\"gangurdehemkant12121@gmail.com\",\"AddressLine1\":\"abc\",\"AddressLine2\":\"abc\",\"PinCode\":\"123456\",\"City\":\"nashik\",\"State\":\"Daman and Diu\",\"CollegeName\":\"Karmaveer Avt. Baburao Ganpatrao Thakare College of Engineering\",\"StreamName\":\"Computer Engineering and IT\",\"RefferedBy\":\"TPO\",\"RefferedByContact\":\"9234567890\"}.","timestamp":"2019-02-11T12:09:27.414Z"}
+{"level":"error","message":"Internal server error Invalid number of arguments. At least 2 arguments expected.","timestamp":"2019-02-11T12:09:27.608Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2019-02-11T12:10:38.415Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2019-02-11T12:10:38.719Z"}
+{"level":"info","message":"User Details : {\"UserName\":\"ESPL50054\",\"FirstName\":\"Hemkantg\",\"MiddleName\":\"Hemkantg\",\"LastName\":\"Hemkantg\",\"Gender\":\"0\",\"MaritalStatus\":\"0\",\"DOB\":\"02/11/2001\",\"ContactNumber\":\"8055001098\",\"Email\":\"gan23gurdehemkant@gmail.com\",\"AddressLine1\":\"abc\",\"AddressLine2\":\"abc\",\"PinCode\":\"123456\",\"City\":\"nashik\",\"State\":\"Daman and Diu\",\"CollegeName\":\"Karmaveer Avt. Baburao Ganpatrao Thakare College of Engineering\",\"StreamName\":\"Computer Engineering and IT\",\"RefferedBy\":\"\",\"RefferedByContact\":\"\"}.","timestamp":"2019-02-11T12:14:49.958Z"}
+{"level":"info","message":"User Details : {\"UserName\":\"ESPL50055\",\"FirstName\":\"Hemkantg\",\"MiddleName\":\"Hemkantg\",\"LastName\":\"Hemkantg\",\"Gender\":\"0\",\"MaritalStatus\":\"0\",\"DOB\":\"02/11/2001\",\"ContactNumber\":\"8055001057\",\"Email\":\"gangurdehemkant34343@gmail.com\",\"AddressLine1\":\"abc\",\"AddressLine2\":\"abc\",\"PinCode\":\"123456\",\"City\":\"nashik\",\"State\":\"Daman and Diu\",\"CollegeName\":\"Karmaveer Avt. Baburao Ganpatrao Thakare College of Engineering\",\"StreamName\":\"Computer Engineering and IT\",\"RefferedBy\":\"TPO\",\"RefferedByContact\":\"8055001060\"}.","timestamp":"2019-02-11T12:16:12.264Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2019-02-12T05:14:57.428Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2019-02-12T05:14:58.069Z"}
+{"level":"info","message":"User Details : {\"UserName\":\"ESPL50056\",\"FirstName\":\"Hemkantg\",\"MiddleName\":\"Hemkantg\",\"LastName\":\"Hemkantg\",\"Gender\":\"0\",\"MaritalStatus\":\"0\",\"DOB\":\"02/12/2001\",\"ContactNumber\":\"9876655444\",\"Email\":\"asdasdas@gmail.com\",\"AddressLine1\":\"asda\",\"AddressLine2\":\"asd\",\"PinCode\":\"422009\",\"City\":\"asd\",\"State\":\"Daman and Diu\",\"CollegeName\":\"Karmaveer Avt. Baburao Ganpatrao Thakare College of Engineering\",\"StreamName\":\"Computer Engineering and IT\",\"RefferedBy\":\"\",\"RefferedByContact\":\"\"}.","timestamp":"2019-02-12T05:18:52.182Z"}
+{"level":"error","message":"Internal server error Procedure or function 'OnlineTest_UserTest' expects parameter '@TestIdNew', which was not supplied.","timestamp":"2019-02-12T05:18:52.652Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2019-02-12T05:19:32.153Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2019-02-12T05:19:32.512Z"}
+{"level":"info","message":"User Details : {\"UserName\":\"ESPL50056\",\"FirstName\":\"Hemkant\",\"MiddleName\":\"Hemkantg\",\"LastName\":\"Hemkantg\",\"Gender\":\"0\",\"MaritalStatus\":\"0\",\"DOB\":\"02/12/2001\",\"ContactNumber\":\"8055001076\",\"Email\":\"gangurdehemkant@gmail.com\",\"AddressLine1\":\"abcasdasdasdasdasdasdasd\",\"AddressLine2\":\"abcasdasdasdasd\",\"PinCode\":\"123456\",\"City\":\"nashikasdasdasdasdasda\",\"State\":\"Daman and Diu\",\"CollegeName\":\"Karmaveer Avt. Baburao Ganpatrao Thakare College of Engineering\",\"StreamName\":\"Computer Engineering and IT\",\"RefferedBy\":\"\",\"RefferedByContact\":\"\"}.","timestamp":"2019-02-12T05:20:26.372Z"}
+{"level":"info","message":"User Details : {\"UserName\":\"ESPL50056\",\"FirstName\":\"Hemkantg\",\"MiddleName\":\"Hemkantg\",\"LastName\":\"Hemkantg\",\"Gender\":\"0\",\"MaritalStatus\":\"0\",\"DOB\":\"02/12/2001\",\"ContactNumber\":\"8055001095\",\"Email\":\"gangurdehemkant143432@gmail.com\",\"AddressLine1\":\"abc\",\"AddressLine2\":\"abc\",\"PinCode\":\"123456\",\"City\":\"nashik\",\"State\":\"Daman and Diu\",\"CollegeName\":\"Karmaveer Avt. Baburao Ganpatrao Thakare College of Engineering\",\"StreamName\":\"Computer Engineering and IT\",\"RefferedBy\":\"\",\"RefferedByContact\":\"\"}.","timestamp":"2019-02-12T05:21:19.819Z"}
+{"level":"info","message":"User Details : {\"UserName\":\"ESPL50056\",\"FirstName\":\"Hemkantg\",\"MiddleName\":\"Hemkantg\",\"LastName\":\"Hemkantg\",\"Gender\":\"0\",\"MaritalStatus\":\"0\",\"DOB\":\"02/12/2001\",\"ContactNumber\":\"8055001095\",\"Email\":\"gangurdehemkant143432@gmail.com\",\"AddressLine1\":\"abc\",\"AddressLine2\":\"abc\",\"PinCode\":\"123456\",\"City\":\"nashik\",\"State\":\"Daman and Diu\",\"CollegeName\":\"Karmaveer Avt. Baburao Ganpatrao Thakare College of Engineering\",\"StreamName\":\"Computer Engineering and IT\",\"RefferedBy\":\"\",\"RefferedByContact\":\"\"}.","timestamp":"2019-02-12T05:21:56.209Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2019-02-12T09:56:42.048Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2019-02-12T09:56:42.097Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2019-02-12T10:05:00.227Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2019-02-12T10:05:00.267Z"}
+{"level":"error","message":"Internal server error Procedure or function 'Insert_UserResultAccuracyConfidence' expects parameter '@TestId', which was not supplied.","timestamp":"2019-02-12T10:05:04.479Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2019-02-12T10:06:06.821Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2019-02-12T10:06:07.188Z"}
+{"level":"error","message":"Internal server error Procedure or function Insert_Tests has too many arguments specified.","timestamp":"2019-02-12T10:06:13.036Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2020-10-16T05:23:32.082Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2020-10-16T05:28:30.150Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2020-10-16T05:33:23.748Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2020-10-16T05:42:14.510Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2020-10-16T05:43:07.379Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2020-10-16T06:02:47.060Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2020-10-16T06:09:08.398Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2020-10-16T06:10:16.297Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2020-10-16T06:29:00.109Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2020-10-16T06:43:22.595Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2020-10-16T06:48:37.931Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2020-10-16T06:49:11.028Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2020-10-16T06:49:20.627Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2020-10-16T06:49:36.220Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2020-10-16T06:49:57.009Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2020-10-16T06:52:43.037Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2020-10-16T06:55:21.022Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2020-10-16T06:58:46.399Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2020-10-16T07:03:19.189Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2020-10-16T07:04:19.708Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2020-10-16T07:07:12.212Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2020-10-16T07:07:58.212Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2020-10-16T07:08:47.807Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2020-10-16T07:08:59.583Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2020-10-16T07:34:16.338Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2020-10-16T07:43:55.356Z"}
+{"level":"error","message":"Internal server error validation error for column \"CONTACT\".\"CONTACT\", value \"*** null ***\"","timestamp":"2020-10-16T07:44:15.319Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2020-10-16T07:45:34.162Z"}
+{"level":"error","message":"Internal server error Dynamic SQL Error, SQL error code = -104, Token unknown - line 1, column 86, ', '","timestamp":"2020-10-16T07:45:45.001Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2020-10-16T07:46:37.716Z"}
+{"level":"error","message":"Internal server error Dynamic SQL Error, SQL error code = -104, Token unknown - line 1, column 86, ', '","timestamp":"2020-10-16T07:46:49.027Z"}
+{"level":"error","message":"Uncaught exception occurred!! Maximum call stack size exceeded","timestamp":"2020-10-16T07:57:11.868Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2020-10-16T08:18:44.194Z"}
+{"level":"error","message":"Internal server error Dynamic SQL Error, SQL error code = -104, Token unknown - line 1, column 84, ', '","timestamp":"2020-10-16T08:18:50.690Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2020-10-16T08:20:16.735Z"}
