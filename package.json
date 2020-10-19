@@ -15,7 +15,6 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.18.0",
-    "bcrypt": "^2.0.1",
     "config": "^1.30.0",
     "cors": "^2.8.4",
     "cryptr": "^4.0.0",
